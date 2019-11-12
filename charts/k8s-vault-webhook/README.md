@@ -24,7 +24,7 @@ $ helm repo add ouestfrance https://charts.ouest-france.fr/
 To install the chart with the release name `my-release`:
 
 ```console
-$ helm install --name my-release ouestfrance/k8s-vault-webhook
+$ helm install my-release ouestfrance/k8s-vault-webhook
 ```
 
 The command deploys WordPress on the Kubernetes cluster in the default configuration. The [Parameters](#parameters) section lists the parameters that can be configured during installation.
