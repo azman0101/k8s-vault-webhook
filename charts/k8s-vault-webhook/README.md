@@ -11,7 +11,7 @@ It also packages the [Bitnami MariaDB chart](https://github.com/kubernetes/chart
 ## Prerequisites
 
 - Kubernetes 1.9+
-- Helm 2.13+
+- Helm 3.0+
 
 ## Installing the Chart
 
